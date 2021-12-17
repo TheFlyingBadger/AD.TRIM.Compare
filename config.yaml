@@ -1,2 +1,9 @@
 APP:
   DEBUG: True
+FILES:
+  TRIMCSV: D:\AD.TRIM.Compare\RA active in TRIM.csv
+  TRIMCSVPROCESSED: D:\AD.TRIM.Compare\TRIM.User.RA.tab
+  TRIMCSVERRORS: D:\AD.TRIM.Compare\TRIM.User.RA.errors.tab
+  ADSTAFFLIST: D:\AD.TRIM.Compare\Active Staff List.tab
+  ADSTAFFLISTPROCESSED: D:\AD.TRIM.Compare\AD.Staff.List.tab
+  RALIST: D:\AD.TRIM.Compare\RA.List.tab
